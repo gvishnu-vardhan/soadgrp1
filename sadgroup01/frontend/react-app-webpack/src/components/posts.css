@@ -1,0 +1,123 @@
+body{
+  background-color: #343A40;
+}
+.all{
+    font-size: 12px;
+    background-color:#BFC0C0;
+    transition: box-shadow 0.2s ease 0s;
+    cursor: pointer;
+    /* margin-top: 10px; */
+    /* box-shadow: 2px 2px 2px 2px #BFC0C0; */
+    border: 0.2px;
+    box-sizing: border-box;
+    min-height: 200px;
+    text-size-adjust: 100%;
+  }
+  
+  .image1 img{
+    position: relative;
+    width: 231px;
+    padding-top: 7px;
+    /* overflow: hidden; */
+  }
+  
+  .ak1 img{
+    width: 40px;
+    height: 40px;
+  }
+  
+  .ak1{
+    font-size: 2.5rem;
+    font-weight: bold;
+  }
+  text .posts{
+    position: relative;
+    /* width: calc(100% - 231px); */
+    /* padding: 16px 20px 0px; */
+  }
+  
+  .text2{
+    max-width: calc(100% - 90px);
+    font-size: 16px;
+    line-height: 16px;
+    font-weight: 500;
+    letter-spacing: 0.5px;
+    /* overflow: hidden; */
+    white-space: nowrap;
+    text-overflow: ellipsis;
+  }
+  
+  .text1{
+    display: flex;
+    margin-top: 12px;
+  }
+  
+  .text3{
+    max-width: 33.33%;
+    padding: 0px 10px;
+    border-left: 1px solid rgb(239, 239, 239);
+  }
+  
+  .text4{
+      color: rgb(127, 127, 127);
+  }
+  
+  .text5{
+    margin-top: 2px;
+    /* overflow: hidden; */
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    font-weight: 500;
+    font-size: 14px;
+  }
+  
+  .text6{
+    display: flex;
+    margin-top: 16px;
+  }
+  
+  .read-more-less--more,
+  .read-more-less--less {
+    color: #325ead;
+  }
+  
+  .text7{
+    padding-top: 16px;
+    color: rgb(127, 127, 127);
+    overflow: hidden;
+    text-overflow: ellipsis;
+    font-size: 14px;
+  }
+  
+  .text8{
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 600;
+    color: #091e42;
+    display: block;
+    text-align: left;
+    
+  }
+  
+  .text9{
+    /* padding-left: 22px; */
+    /* box-shadow: 1px 1px 1px 1px #ccc; */
+    background-color: #3AAFA6;
+    padding: 10px 20px;
+    height: 90vh;
+    /* position: fixed; */
+  }
+  
+  .text10{
+    /* box-shadow: 3px 3px 5px 6px #ccc; */
+    padding-left: 22px;
+  }
+  
+  .zx{
+    padding-left: 2px;
+  }
+  
+  .filter-div
+  {
+    background-color: #BFC0C0;
+  }
