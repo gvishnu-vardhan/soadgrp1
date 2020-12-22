@@ -6,3 +6,9 @@ Findr completely relies on rest-api services as we used react js as the front en
 Here at Findr we are providing 4 B2B services : 1)House Registration Service 2)finding houses service 3)Roommates service 4)Packers and movers service and 1 B2C service: 1)Furniture rentals
 
 Consider a Business who is finding accommodation or a business who provides accomodation services, Our Business Caters to both their needs and Interconnects them as well,We also connect Consumer to Consumer and Business to Consumer. Such Is the versatility of Findr.
+Our Group Members are :
+1.Vishnu Vardhan S20180010058
+2.Akhilesh S20180010008
+3.Pranav Reddy S20180010042
+4.Lakshmi Deepthi S20180010091
+5.Puneeth Kashyap S20180010139
